@@ -6,3 +6,5 @@ This is where we spent time learning about how to use git while we were at The R
 Here is where I do a crazy experiment!!
 Will this work?
 I don't know.
+
+Offline edit
